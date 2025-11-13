@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Bem vindo a minha aplicação usando uma API de comida 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
